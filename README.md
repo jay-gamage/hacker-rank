@@ -1,2 +1,2 @@
 # hacker-rank
-Repository contains solutions for hacker-rank challenge questions
+Repository contains solutions for HackerRank challenge questions
